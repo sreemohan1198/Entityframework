@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CustomerDB_EntityFramework.props" />
+</Project>
